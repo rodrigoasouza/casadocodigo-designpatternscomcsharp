@@ -1,6 +1,6 @@
 ﻿namespace Design.Patterns.Creational.Abstract_Factory
 {
-    public class AbstractFactoryConst
+    public sealed class AbstractFactoryConst
     {
         private AbstractFactoryConst() { }
 
